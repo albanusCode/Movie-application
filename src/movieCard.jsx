@@ -1,8 +1,6 @@
 import React from "react";
 
 const MovieCard = ({ movie }) => {
-    console.log(movie);
-    console.log("Movie card");
     return (
         <div className='movie'>
             <div>

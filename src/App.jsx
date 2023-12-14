@@ -17,7 +17,6 @@ const App = () => {
     };
 
     useEffect(() => {
-        // Initial search for 'spiderman'
         searchMovies('spiderman');
     }, []);
 
